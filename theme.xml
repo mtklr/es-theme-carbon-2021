@@ -20,6 +20,11 @@ originally based on: "simple" by nils bonenberger
 		<colorPurple>ac0bef</colorPurple>
 		<colorTeal>04e9f7</colorTeal>
 		<colorPink>f50297</colorPink>
+		<colorWhite>ffffff</colorWhite>
+		<colorLightGray>969696</colorLightGray>
+		<colorGray>7f7f7f</colorGray>
+		<colorDarkGray>1c1c1c</colorDarkGray>
+		<colorDunno>7a6161</colorDunno>
 		<themeColor>${colorRed}</themeColor>
 		<themeArtFolder>./art</themeArtFolder>
 		<themeFont>${themeArtFolder}/Cabin-Bold.ttf</themeFont>
@@ -71,8 +76,8 @@ originally based on: "simple" by nils bonenberger
 		</image>
 
 		<helpsystem name="help">
-			<iconColor>7d7d7d</iconColor>
-			<textColor>7d7d7d</textColor>
+			<iconColor>${colorGray}</iconColor>
+			<textColor>${colorGray}</textColor>
 		</helpsystem>
 	</view>
 
@@ -160,10 +165,10 @@ originally based on: "simple" by nils bonenberger
 			<pos>20 184</pos>
 			<alignment>center</alignment>
 			<horizontalMargin>0</horizontalMargin>
-			<selectorColor>1c1c1c</selectorColor>
+			<selectorColor>${colorDarkGray}</selectorColor>
 			<selectedColor>${themeColor}</selectedColor>
-			<primaryColor>969696</primaryColor>
-			<secondaryColor>7a6161</secondaryColor>
+			<primaryColor>${colorLightGray}</primaryColor>
+			<secondaryColor>${colorDunno}</secondaryColor>
 			<scrollSound>${themeScrollSound}</scrollSound>
 		</textlist>
 	</view>
@@ -194,10 +199,10 @@ originally based on: "simple" by nils bonenberger
 			<pos>20 184</pos>
 			<alignment>left</alignment>
 			<horizontalMargin>0</horizontalMargin>
-			<selectorColor>1c1c1c</selectorColor>
+			<selectorColor>${colorDarkGray}</selectorColor>
 			<selectedColor>${themeColor}</selectedColor>
-			<primaryColor>969696</primaryColor>
-			<secondaryColor>7a6161</secondaryColor>
+			<primaryColor>${colorLightGray}</primaryColor>
+			<secondaryColor>${colorDunno}</secondaryColor>
 			<scrollSound>${themeScrollSound}</scrollSound>
 		</textlist>
 
@@ -216,7 +221,7 @@ originally based on: "simple" by nils bonenberger
 				<fontSize>24</fontSize>
 				<forceUppercase>false</forceUppercase>
 				<size>280 32</size>
-				<color>969696</color>
+				<color>${colorLightGray}</color>
 				<visible>true</visible>
 			</text>
 
@@ -225,7 +230,7 @@ originally based on: "simple" by nils bonenberger
 				<fontSize>24</fontSize>
 				<forceUppercase>false</forceUppercase>
 				<size>0 32</size>
-				<color>969696</color>
+				<color>${colorLightGray}</color>
 				<visible>true</visible>
 			</datetime>
 
@@ -358,15 +363,15 @@ originally based on: "simple" by nils bonenberger
 		<gridtile name="default">
 			<size>320 262</size>
 			<padding>50 50</padding>
-			<imageColor>7f7f7fff</imageColor>
-			<backgroundColor>ffffff00</backgroundColor>
+			<imageColor>${colorGray}ff</imageColor>
+			<backgroundColor>${colorWhite}00</backgroundColor>
 		</gridtile>
 
 		<gridtile name="selected">
 			<size>320 262</size>
 			<padding>0 0</padding>
-			<imageColor>ffffffff</imageColor>
-			<backgroundColor>ffffff00</backgroundColor>
+			<imageColor>${colorWhite}ff</imageColor>
+			<backgroundColor>${colorWhite}00</backgroundColor>
 		</gridtile>
 
 		<text name="md_name">
@@ -376,7 +381,7 @@ originally based on: "simple" by nils bonenberger
 			<size>1900 48</size>
 			<pos>10 962</pos>
 			<alignment>center</alignment>
-			<color>969696</color>
+			<color>${colorLightGray}</color>
 			<visible>true</visible>
 		</text>
 	</view>
