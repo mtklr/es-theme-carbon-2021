@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="640"
+   height="146"
+   viewBox="0 0 640 146"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   sodipodi:docname="auto-random.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="1"
+     inkscape:cx="352.5"
+     inkscape:cy="66"
+     inkscape:window-width="1312"
+     inkscape:window-height="449"
+     inkscape:window-x="0"
+     inkscape:window-y="39"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-7.5e-5)">
+    <g
+       id="g1"
+       transform="matrix(0.16666667,0,0,0.16666667,0,6.25e-5)">
+      <g
+         id="g26"
+         transform="matrix(6.7368421,0,0,6.7384615,0,-3032.3076)">
+        <g
+           id="g13"
+           transform="translate(-725,-670)">
+          <polygon
+             class="st1"
+             points="735,1240 735,1250 765,1250 765,1240 775,1240 785,1240 785,1250 815,1250 815,1240 825,1240 825,1220 825,1210 825,1190 825,1170 825,1160 825,1140 815,1140 815,1130 805,1130 805,1120 765,1120 755,1120 735,1120 735,1130 725,1130 725,1150 725,1220 725,1240 "
+             id="polygon7"
+             style="fill:#120f26" />
+          <path
+             class="st2"
+             d="m 765,1210 h 20 v 10 20 h 30 v -30 h -10 v -10 h -10 v -10 h 20 v -30 h -10 v -10 h -40 -10 -20 v 90 h 30 z m 20,-40 v 10 h -10 v 10 h -10 v -20 z"
+             id="path9"
+             style="fill:#e22b17" />
+          <path
+             class="st3"
+             d="m 765,1190 h 20 v 10 20 h 30 v -30 h -10 v -10 h -10 v -10 h 20 v -30 h -10 v -10 h -40 -10 -20 v 90 h 30 z m 20,-40 v 10 h -10 v 10 h -10 v -20 z"
+             id="path10"
+             style="fill:#ffda40" />
+        </g>
+        <g
+           id="g14"
+           transform="translate(-104.99996,-470)">
+          <polygon
+             class="st1"
+             points="195,960 195,1020 195,1040 205,1040 205,1050 235,1050 235,1040 245,1040 255,1040 255,1050 285,1050 285,1040 295,1040 295,1020 295,960 295,940 285,940 285,930 275,930 275,920 215,920 215,930 205,930 205,940 195,940 "
+             id="polygon13"
+             style="fill:#120f26" />
+          <path
+             class="st2"
+             d="m 275,960 v -10 h -60 v 10 h -10 v 80 h 30 v -20 h 20 v 20 h 30 v -80 z m -40,40 v -30 h 20 v 30 z"
+             id="path13"
+             style="fill:#e22b17" />
+          <path
+             class="st3"
+             d="m 275,940 v -10 h -60 v 10 h -10 v 80 h 30 v -20 h 20 v 20 h 30 v -80 z m -40,40 v -30 h 20 v 30 z"
+             id="path14"
+             style="fill:#ffda40" />
+        </g>
+        <g
+           id="g16"
+           transform="translate(-1895,-470)">
+          <polygon
+             class="st1"
+             points="2115,920 2085,920 2085,930 2075,930 2075,950 2075,1020 2075,1040 2085,1040 2085,1050 2115,1050 2115,1040 2125,1040 2135,1040 2135,1050 2165,1050 2165,1040 2175,1040 2175,1020 2175,950 2175,930 2165,930 2165,920 2135,920 2135,930 2125,930 2115,930 "
+             id="polygon14"
+             style="fill:#120f26" />
+          <polygon
+             class="st2"
+             points="2125,1010 2125,1030 2135,1030 2135,1040 2165,1040 2165,950 2135,950 2135,990 2125,990 2125,970 2115,970 2115,950 2085,950 2085,1040 2115,1040 2115,1010 "
+             id="polygon15"
+             style="fill:#e22b17" />
+          <polygon
+             class="st3"
+             points="2125,990 2125,1010 2135,1010 2135,1020 2165,1020 2165,930 2135,930 2135,970 2125,970 2125,950 2115,950 2115,930 2085,930 2085,1020 2115,1020 2115,990 "
+             id="polygon16"
+             style="fill:#ffda40" />
+        </g>
+        <g
+           id="g18"
+           transform="translate(-375,-470)">
+          <polygon
+             class="st1"
+             points="665,1050 685,1050 715,1050 715,1040 725,1040 735,1040 735,1030 745,1030 745,1010 745,960 745,940 735,940 735,930 725,930 725,920 685,920 665,920 655,920 655,930 645,930 645,950 645,1020 645,1040 655,1040 655,1050 "
+             id="polygon17"
+             style="fill:#120f26" />
+          <path
+             class="st2"
+             d="m 725,960 v -10 h -40 -20 -10 v 90 h 10 20 30 v -10 h 20 v -70 z m -40,10 h 20 v 40 h -10 v 10 h -10 z"
+             id="path17"
+             style="fill:#e22b17" />
+          <path
+             class="st3"
+             d="m 725,940 v -10 h -40 -20 -10 v 90 h 10 20 30 v -10 h 20 v -70 z m -40,10 h 20 v 40 h -10 v 10 h -10 z"
+             id="path18"
+             style="fill:#ffda40" />
+        </g>
+        <g
+           id="g20"
+           transform="translate(85,-670)">
+          <polygon
+             class="st1"
+             points="375,1210 375,1160 375,1140 365,1140 365,1130 355,1130 355,1120 295,1120 295,1130 285,1130 285,1140 275,1140 275,1160 275,1210 275,1230 285,1230 285,1240 295,1240 295,1250 355,1250 355,1240 365,1240 365,1230 375,1230 "
+             id="polygon18"
+             style="fill:#120f26" />
+          <path
+             class="st2"
+             d="m 355,1240 v -10 h 10 v -70 h -10 v -10 h -60 v 10 h -10 v 70 h 10 v 10 z m -40,-20 v -50 h 20 v 50 z"
+             id="path19"
+             style="fill:#e22b17" />
+          <path
+             class="st3"
+             d="m 355,1220 v -10 h 10 v -70 h -10 v -10 h -60 v 10 h -10 v 70 h 10 v 10 z m -40,-20 v -50 h 20 v 50 z"
+             id="path20"
+             style="fill:#ffda40" />
+        </g>
+        <g
+           id="g25"
+           transform="translate(-1455,-470)">
+          <polygon
+             class="st1"
+             points="1965,950 1955,950 1955,940 1955,930 1945,930 1945,920 1915,920 1915,930 1905,930 1905,950 1905,1020 1905,1040 1915,1040 1915,1050 1945,1050 1945,1040 1955,1040 1955,1020 1975,1020 1975,1040 1985,1040 1985,1050 2015,1050 2015,1040 2025,1040 2025,1020 2025,950 2025,930 2015,930 2015,920 1985,920 1985,930 1975,930 1975,940 1975,950 "
+             id="polygon20"
+             style="fill:#120f26" />
+          <polygon
+             class="st2"
+             points="1945,950 1915,950 1915,1040 1945,1040 1945,1000 1955,1000 1955,1010 1975,1010 1975,1000 1985,1000 1985,1040 2015,1040 2015,950 1985,950 1985,970 1975,970 1975,980 1955,980 1955,970 1945,970 "
+             id="polygon21"
+             style="fill:#e22b17" />
+          <polygon
+             class="st3"
+             points="1945,930 1915,930 1915,1020 1945,1020 1945,980 1955,980 1955,990 1975,990 1975,980 1985,980 1985,1020 2015,1020 2015,930 1985,930 1985,950 1975,950 1975,960 1955,960 1955,950 1945,950 "
+             id="polygon25"
+             style="fill:#ffda40" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
