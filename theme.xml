@@ -31,11 +31,11 @@ originally based on: "simple" by nils bonenberger
 		<!-- <themeSystemFolder>${themeArtFolder}/systems</themeSystemFolder> -->
 		<!-- <themeSystemSelFolder>${themeSystemFolder</themeSystemSelFolder> -->
 		<!-- dp logos, 3840x: -->
-		<themeSystemFolder>${themeArtFolder}/dp/systems</themeSystemFolder>
-		<themeSystemSelFolder>${themeArtFolder}/dp/systems_sel</themeSystemSelFolder>
-		<!-- dp logos, 1920x: -->
-		<!-- <themeSystemFolder>${themeArtFolder}/dp/systems_1920</themeSystemFolder> -->
-		<!-- <themeSystemSelFolder>${themeArtFolder}/dp/systems_sel_1920</themeSystemSelFolder> -->
+		<!-- <themeSystemFolder>${themeArtFolder}/dp/systems</themeSystemFolder> -->
+		<!-- <themeSystemSelFolder>${themeArtFolder}/dp/systems_sel</themeSystemSelFolder> -->
+		<!-- dp logos, 640x: -->
+		<themeSystemFolder>${themeArtFolder}/dp/systems_640</themeSystemFolder>
+		<themeSystemSelFolder>${themeArtFolder}/dp/systems_sel_640</themeSystemSelFolder>
 		<themeFont>${themeArtFolder}/Cabin-Bold.ttf</themeFont>
 		<themeScrollSound>${themeArtFolder}/scroll.wav</themeScrollSound>
 		<themeGamelistFontSize>32</themeGamelistFontSize>
